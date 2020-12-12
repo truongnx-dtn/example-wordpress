@@ -1,0 +1,8 @@
+.htaccess
+wp-config.php
+wp-content/*
+!wp-content/themes/
+!wp-content/plugins/
+*.log
+sitemap.xml
+sitemap.xml.gz
